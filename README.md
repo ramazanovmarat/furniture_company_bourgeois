@@ -1,4 +1,4 @@
-# furniture_company_bourgeois
+# Mobile and desktop version for Bourgeois Furniture Company
 
 A new Flutter project.
 
